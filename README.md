@@ -1,8 +1,6 @@
 ### 👩‍💻 About me:
 
-- 🏫 I'm a 3rd year CS student at Matcom, University of Havana
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 📫 You can reach me at: **[anabelbenitezglez@gmail.com](**anabelbenitezglez@gmail.com**)**
+- 🏫 I'm a CS student at Matcom, University of Havana
 
 <div class="main" display="grid" grid-template-columns="1fr 1fr" style="
     display: grid;
@@ -13,18 +11,12 @@
     text-align: center;
 ">
   <div class="lang">
-    <h4>Languages</h4>
-    <img src="https://skillicons.dev/icons?i=js,ts,cs"/>
-    <img src="https://skillicons.dev/icons?i=c,py,java"/>
-  </div>
-    
-  <div class="skills">
-    <h4>Skills</h4>
-    <img src="https://skillicons.dev/icons?i=react"/>
-    <img src="https://skillicons.dev/icons?i=css,html"/>
-    <img src="https://skillicons.dev/icons?i=dotnet,spring,mysql"/>
+    <h4>Languages and Tools</h4>
+    <img src="https://skillicons.dev/icons?i=ts,cs,py"/>
+    <img src="https://skillicons.dev/icons?i=react,css,html"/>
+    <img src="https://skillicons.dev/icons?i=dotnet,mysql"/>
     <img src="https://skillicons.dev/icons?i=git,github"/>
-    <img src="https://skillicons.dev/icons?i=postman"/>
+    <!-- <img src="https://skillicons.dev/icons?i=postman"/> -->
   </div>
 </div>
 
