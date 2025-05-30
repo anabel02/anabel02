@@ -15,8 +15,7 @@
     <img src="https://skillicons.dev/icons?i=ts,cs,py"/>
     <img src="https://skillicons.dev/icons?i=react,css,html"/>
     <img src="https://skillicons.dev/icons?i=dotnet,mysql"/>
-    <img src="https://skillicons.dev/icons?i=git,github"/>
-    <!-- <img src="https://skillicons.dev/icons?i=postman"/> -->
+    <img src="https://skillicons.dev/icons?i=git"/>
   </div>
 </div>
 
