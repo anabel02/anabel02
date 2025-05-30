@@ -1,6 +1,6 @@
 ### 👩‍💻 About me:
 
-- 🏫 Computer Science student at University of Havana
+- 🏫 B.Sc. in Computer Science — University of Havana
 
 <div class="main" display="grid" grid-template-columns="1fr 1fr" style="
     display: grid;
