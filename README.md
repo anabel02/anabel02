@@ -23,7 +23,7 @@
 
 **Backend & Tools** 
 
-<img src="https://skillicons.dev/icons?i=dotnet,git,docker" alt="Backend & Dev Tools" title=".NET, Docker" />
+<img src="https://skillicons.dev/icons?i=dotnet,docker" alt="Backend & Dev Tools" title=".NET, Docker" />
 
 **Databases** 
 
@@ -37,8 +37,6 @@
 
 ![Anabel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anabel02\&show_icons=true\&theme=tokyonight\&hide=prs\&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabel02\&layout=compact\&theme=tokyonight)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anabel02\&theme=github-dark-blue\&hide_border=true)](https://github.com/anabel02)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabel02&layout=compact&theme=tokyonight)
 
 </div>
