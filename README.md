@@ -1,36 +1,44 @@
-### 👩‍💻 About me:
+### 👩‍💻 About Me
 
-- 🏫 B.Sc. in Computer Science — University of Havana
+* 🎓 **B.Sc. in Computer Science** — University of Havana
 
-<div class="main" display="grid" grid-template-columns="1fr 1fr" style="
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-    width: 90%;
-    margin: 5px auto;
-    text-align: center;
-">
-  <div class="lang">
-    <h4>Languages and Tools</h4>
-    <img src="https://skillicons.dev/icons?i=ts,cs,py"/>
-    <img src="https://skillicons.dev/icons?i=react,css,html"/>
-    <img src="https://skillicons.dev/icons?i=dotnet,mysql"/>
-    <img src="https://skillicons.dev/icons?i=git"/>
-  </div>
+<div align="center">
+    
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C793%20hrs%2031%20mins-blue)
+
 </div>
 
 
-<!--
-**anabel02/anabel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Languages & Technologies
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages** 
+
+<img src="https://skillicons.dev/icons?i=py,cs,ts" alt="Languages" title="Python, C#, TypeScript" />
+
+**Frontend** 
+
+<img src="https://skillicons.dev/icons?i=html,css,react,angular" alt="Frontend Tools" title="HTML, CSS, React, Angular" />
+
+**Backend & Tools** 
+
+<img src="https://skillicons.dev/icons?i=dotnet,git,docker" alt="Backend & Dev Tools" title=".NET, Docker" />
+
+**Databases** 
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" title="MySQL, PostgreSQL" />
+
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Anabel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anabel02\&show_icons=true\&theme=tokyonight\&hide=prs\&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabel02\&layout=compact\&theme=tokyonight)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anabel02\&theme=github-dark-blue\&hide_border=true)](https://github.com/anabel02)
+
+</div>
