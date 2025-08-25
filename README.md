@@ -37,6 +37,6 @@
 
 ![Anabel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anabel02\&show_icons=true\&theme=tokyonight\&hide=prs\&count_private=true)
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anabel02&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=anabel02&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabel02&theme=tokyonight)
 
 </div>
