@@ -2,13 +2,6 @@
 
 * 🎓 **B.Sc. in Computer Science** — University of Havana
 
-<div align="center">
-    
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C793%20hrs%2031%20mins-blue)
-
-</div>
-
-
 ### 🛠️ Languages & Technologies
 
 <div align="center">
